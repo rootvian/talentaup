@@ -9,17 +9,21 @@ git show
 ''''
 
 ## Rediger un commit
+
 '''
 git restaore --staged fichier : pour restaurer le fichier avant le commit suis a l'execution de la commande git add .
 
 '''
+
 ## Gestion des branches
+
 '''bash
 git branch : pour lister les branches
 git ckeckout -b nom_branch pour créer une branche
-git status 
+git status
 git add .
 git commit -m "Enregistrement de la branche"
-git 
+git checkout main : pour revenir a la branche main
+git marge branch : pour merger la branche créer vers la branche main
+git push origin main : pour envoyer le depot local vers le depot en ligne
 '''
-
