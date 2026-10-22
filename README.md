@@ -13,3 +13,10 @@ git show
 git restaore --staged fichier : pour restaurer le fichier avant le commit suis a l'execution de la commande git add .
 
 '''
+## Gestion des branches
+'''bash
+git branch : pour lister les branches
+git ckeckout -b nom_branch pour créer une branche
+
+'''
+
