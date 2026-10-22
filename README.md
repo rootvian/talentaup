@@ -27,4 +27,5 @@ git push origin new_branch : pour publier cette branche sur mon depot github en 
 git checkout main : pour revenir a la branche main
 git marge branch : pour merger la branche créer vers la branche main
 git push origin main : pour envoyer le depot local vers le depot en ligne
+Utilisation d'un puul request
 '''
