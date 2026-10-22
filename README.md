@@ -17,6 +17,9 @@ git restaore --staged fichier : pour restaurer le fichier avant le commit suis a
 '''bash
 git branch : pour lister les branches
 git ckeckout -b nom_branch pour créer une branche
-
+git status 
+git add .
+git commit -m "Enregistrement de la branche"
+git 
 '''
 
